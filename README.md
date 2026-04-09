@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hey, I'm Nahom
 
-<!--
-**Nahom-prog/Nahom-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer from Ethiopia 🇪🇹 focused on becoming a full-stack software engineer.
+I enjoy building modern, clean, and interactive web applications that actually feel good to use.
 
-Here are some ideas to get you started:
+🚀 What I'm Doing
+🌱 Currently mastering Front-end and diving deeper into Back-end
+🏗️ Building real-world projects like hotel booking systems
+⚙️ Exploring backend development (Node.js, APIs, databases)
+🤖 Interested in integrating AI into future projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I Like
+Clean UI/UX with smooth animations
+Turning ideas into real working products
+
+🎯 Goals
+Become a job-ready full-stack developer
+Build scalable apps (web + mobile)
+Grow an online business through tech
